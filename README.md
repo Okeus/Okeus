@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Okeus
-- 👀 I’m interested in modeling focused ultraosound.
+- 👀 I’m interested in modeling focused ultrasound.
 - 📫 How to reach me ... ryan.holman@unige.ch
 
 <!---
